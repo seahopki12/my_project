@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: monospace;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-left-width: thick;
+    border-right-width: thick;
+    }
+p{
+    margin-left: 400px;
+    margin-right: 400px;
+}
